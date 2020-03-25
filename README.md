@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-Adicione suas ideias e nunca mais se esqueça.
+Um caderninho de anotações de estilo amigável. Perfeito para guardar suas ideias
 </p>
