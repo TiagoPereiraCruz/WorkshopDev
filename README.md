@@ -17,7 +17,6 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 ------------------
 
 - JAVASCRIPT
-- NODE JS
 - HTML5
 - CSS3
 
