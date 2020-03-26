@@ -13,7 +13,6 @@ O projeto foi ministrado por Maiky Brito, instrutor da Rocketseat e seu desenvol
 
 <img src="assets/print/home.PNG" alt="page-home">
 <img src="assets/print/add-idea.PNG" alt="page-new-idea">
-<img src="assets/print/ver-idea.PNG">
 
 🔧 Tecnologias utilizadas:
 ------------------
